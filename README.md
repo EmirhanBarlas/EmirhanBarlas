@@ -1,5 +1,6 @@
 <h1 align="center">Hi 🫸, I'm Emirhan Barlas</h1>
-<h3 align="center">I am someone who lives in Turkey and often works as a front end.</h3>
+<h3 align="center">Hello, I am Emirhan. I am interested in Front-End and Back-End parts. I generally use Java, JavaScript, Python, C# and HTML CSS.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
