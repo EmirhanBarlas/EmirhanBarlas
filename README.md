@@ -3,6 +3,7 @@
 </h3>
 
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
   <a href="https://emirhanbarlas.com" style: color:black> Portfoy Website </a>
 </p>
